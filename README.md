@@ -9,8 +9,8 @@ Before I tell you to run this project , this project i learn from this link.. ht
 ```
     pip install -r requirements.txt 
 ```
-4. Run the project, fill the query that will you analyze in parameter q on  **SentimentAnalysis.py** files , like this example.. i'll analyze twit that contains 'muslim'
+4. Fill the query that will you analyze in parameter q on  **SentimentAnalysis.py** files , like this example.. i'll analyze twit that contains 'muslim'
 ```
  tweets = extractor.search(q="Muslim",lang="en",count="200")
 ```
-6. and you're done...
+6. Run the project and you're done...
